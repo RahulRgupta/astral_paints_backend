@@ -1,6 +1,6 @@
 ##  instructions
 
-##  first create env file and paste that credentile in env file
+##  first create env file and paste that credentials in env file
 ## run a command of - npm i , To install all depedencies.
 ## To run the server.js file use nodemon - npm run dev , using this command backend will start 
 
